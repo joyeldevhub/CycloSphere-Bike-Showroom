@@ -6,10 +6,12 @@ Role: Full Stack Developer
 
 Technology: Java EE, MySQL, HTML, CSS, Servlets, JSP
 
-#Description:
+Description:
+
 The Motorcycle Showroom Management System is a web-based application designed to streamline the process of managing a motorcycle showroom. It provides a user-friendly interface for both customers and showroom staff to interact, browse different motorcycle brands and models, and facilitate the process of selecting a bike, registering for test drives, and submitting inquiries.
 
-##Responsibilities:
+Responsibilities:
+
 As a Full Stack Developer, I was responsible for designing, developing, and deploying the entire system, including both the frontend and backend components. My responsibilities included:
 
 Database Design: Designing the MySQL database schema to store information about motorcycles, customer registrations, inquiries, and user authentication data.
@@ -32,7 +34,8 @@ Deployment: Deploying the application on a Tomcat server for testing and product
 
 User Experience: Ensuring a smooth user experience by providing clear navigation, error handling, and user-friendly interface elements.
 
-##Explanation:
+ Explanation:
+
 The Motorcycle Showroom Management System aims to provide an efficient and user-friendly platform for customers to explore various motorcycle brands and models, register for test drives, and inquire about specific bikes. Showroom staff can manage customer registrations, respond to inquiries, and maintain an up-to-date catalog of available motorcycles.
 
 Customers can register with their details, browse different motorcycle models, view specifications, and even schedule test drives. The system offers a secure login mechanism for customers to access their accounts.
