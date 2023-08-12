@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #8BE8E5;
+}
+
+div{
+	
+}
+
+.thank{	
+	width: 500px;
+	margin: 250px auto;
+	padding: 10px 20px 30px;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	font-size: 20px;	 
+}
+
+.thank h5{
+	color: black;
+	text-align: center;
+}
+
+.thank h1{
+	text-align: center;
+	color:#FFF6F4;
+}
+
+.footerbottom{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 5px 15px 0px;
+}
+
+.footerbottom{	
+	text-align: center;
+}
+
+.footerbottom p{
+	color: black;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
